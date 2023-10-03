@@ -1,4 +1,4 @@
-# Learning K.core calculation for graphs
+# Learning Churning Probability about bank customers
 
 - Here are some key points about churn prediction for bank customers using TensorFlow and feature engineering:
 
